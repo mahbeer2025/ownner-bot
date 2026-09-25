@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mahbeersf.aternos.me
-",
+    "ip": "mahbeersf.aternos.me",
     "port": 35175,
     "version": "1.21.11",
     "try-creative": false
